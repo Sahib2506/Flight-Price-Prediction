@@ -1,2 +1,2 @@
 # Flight-Price-Prediction
-We are going to collect data and build a model for predicting price of flights.
+Anyone who has booked a flight ticket knows how unexpectedly the prices vary. The cheapest available ticket on a given flight gets more and less expensive over time. This usually happens as an attempt to maximize revenue based on - 1. Time of purchase patterns (making sure last-minute purchases are expensive) 2. Keeping the flight as full as they want it (raising prices on a flight which is filling up in order to reduce sales and hold back inventory for those expensive last-minute expensive purchases) So, In this we will work on a project where we will collect data of flight fares with other features and work to make a model to predict fares of flights.
